@@ -1,5 +1,8 @@
 {
     "name": "iryacrypto/irya-pay",
+    "description": "IRYA Pay Gateway",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "IRYA Pay",
