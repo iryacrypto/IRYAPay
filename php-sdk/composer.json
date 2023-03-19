@@ -1,0 +1,23 @@
+{
+    "name": "IRYAPay/php-sdk",
+    "description": "IRYAPay Payment GateWay",
+    "type": "library",
+    "authors": [
+    {
+        "name": "IRYA Pay",
+        "email": "iryacryptoProject@gmail.com"
+    }],
+    "require":
+    {
+        "php": ">=5.3.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload":
+    {
+        "psr-0":
+        {
+            "IRYAPay": "src/"
+        }
+    }
+}
