@@ -1,0 +1,17 @@
+{
+    "name": "iryacrypto/IRYAPay",
+    "authors": [
+        {
+            "name": "IRYA Pay",
+            "email": "iryacryptoproject@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "IRYAPay": "php-sdk/src/"
+        }
+    }
+}
